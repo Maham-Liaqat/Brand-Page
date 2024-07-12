@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Brand-Page/static/css/main.74c7de5b.css",
+    "main.js": "/Brand-Page/static/js/main.f264c815.js",
+    "static/js/317.e3962ed5.chunk.js": "/Brand-Page/static/js/317.e3962ed5.chunk.js",
+    "index.html": "/Brand-Page/index.html",
+    "main.74c7de5b.css.map": "/Brand-Page/static/css/main.74c7de5b.css.map",
+    "main.f264c815.js.map": "/Brand-Page/static/js/main.f264c815.js.map",
+    "317.e3962ed5.chunk.js.map": "/Brand-Page/static/js/317.e3962ed5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c7de5b.css",
+    "static/js/main.f264c815.js"
+  ]
+}
